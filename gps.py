@@ -15,6 +15,8 @@ for i in lines2:
         for j in lines1:
             line1 = j.split()
             if (line1[0] == '1'):
+                fms = float('0.'+ line1[1].split('.')[1])
+                ms = int(fms * 1000)
                 utc = datetime(1980, 1, 6) + timedelta(seconds=(int(line1[2]) * 604800 + int(line1[1].split('.')[0])))
                 if utc == source_time: print(line1)
                 
