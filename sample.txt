@@ -1,0 +1,204 @@
+ExifTool Version Number         : 12.09
+File Name                       : DSC00776.JPG
+Directory                       : .
+File Size                       : 4.8 MB
+File Modification Date/Time     : 2020:08:05 11:14:52+08:00
+File Access Date/Time           : 2020:11:02 09:13:52+08:00
+File Creation Date/Time         : 2020:11:02 09:13:51+08:00
+File Permissions                : rw-rw-rw-
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Description               : 
+Make                            : SONY
+Camera Model Name               : ILCE-6000
+Orientation                     : Rotate 270 CW
+X Resolution                    : 350
+Y Resolution                    : 350
+Resolution Unit                 : inches
+Software                        : ILCE-6000 v3.21
+Modify Date                     : 2020:11:01 09:07:42
+Y Cb Cr Positioning             : Co-sited
+Exposure Time                   : 1/50
+F Number                        : 3.5
+ISO                             : 3200
+Sensitivity Type                : Recommended Exposure Index
+Recommended Exposure Index      : 3200
+Exif Version                    : 0230
+Date/Time Original              : 2020:11:01 09:07:42
+Create Date                     : 2020:11:01 09:07:42
+Components Configuration        : Y, Cb, Cr, -
+Compressed Bits Per Pixel       : 2
+Brightness Value                : 0.69296875
+Exposure Compensation           : 0
+Max Aperture Value              : 3.5
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 16.0 mm
+Rating                          : 0
+Brightness                      : 0
+Long Exposure Noise Reduction   : On (unused)
+High ISO Noise Reduction        : Normal
+HDR                             : Off; Uncorrected image
+WB Shift AB GM                  : 0 0
+Face Info Offset                : 94
+Sony Date Time                  : 2020:11:01 09:07:42
+Sony Image Width                : 6000
+Faces Detected                  : 1
+Face Info Length                : 37
+Meta Version                    : DC7303320222000
+Face 1 Position                 : 920 3694 1744 1744
+Creative Style                  : Standard
+Color Temperature               : Auto
+Color Compensation Filter       : 0
+Scene Mode                      : Standard
+Zone Matching                   : ISO Setting Used
+Dynamic Range Optimizer         : Auto
+Image Stabilization             : On
+Color Mode                      : Standard
+Full Image Size                 : 6000x4000
+Preview Image Size              : 1616x1080
+File Format                     : ARW 2.3.1
+Quality                         : Fine
+Flash Exposure Compensation     : 0
+White Balance Fine Tune         : 0
+White Balance                   : Auto
+Sony Model ID                   : ILCE-6000
+Teleconverter                   : None
+Multi Frame Noise Reduction     : Off
+Picture Effect                  : Off
+Soft Skin Effect                : Off
+Vignetting Correction           : Auto
+Lateral Chromatic Aberration    : Auto
+Distortion Correction Setting   : Auto
+Lens Type                       : E-Mount, T-Mount, Other Lens or no lens
+Lens Spec                       : E PZ 16-50mm F3.5-5.6 OSS
+Auto Portrait Framed            : No
+Flash Action                    : Did not fire
+Electronic Front Curtain Shutter: On
+Focus Mode                      : Manual
+AF Area Mode Setting            : Flexible Spot
+Flexible Spot Position          : 320 240
+AF Point Selected               : n/a
+AF Points Used                  : (none)
+AF Tracking                     : Off
+Focal Plane AF Points Used      : (none)
+Multi Frame NR Effect           : Normal
+Flash Level                     : Normal
+Release Mode                    : Normal
+Sequence Number                 : Single
+Anti-Blur                       : On (Shooting)
+Shot Number Since Power Up      : 2
+Sequence Image Number           : 1
+Sequence File Number            : 1
+Sequence Length                 : 1 file
+Camera Orientation              : Rotate 270 CW
+Quality 2                       : JPEG
+Sony Image Height               : 4000
+Model Release Year              : 2014
+ISO Setting                     : Auto
+ISO Auto Min                    : 100
+ISO Auto Max                    : 3200
+AF Area Mode                    : Manual
+Focus Position 2                : 146
+Exposure Program                : Aperture-priority AE
+Intelligent Auto                : Off
+Lens Zoom Position              : 0%
+Sony ISO                        : 3200
+Base ISO                        : 100
+Stops Above Base ISO            : 5.0
+Sony Exposure Time 2            : 1/46
+Sony Max Aperture Value         : 3.7
+Sony Image Width Max            : 6024
+Sony Image Height Max           : 4024
+Picture Effect 2                : Off
+Distortion Correction           : Applied
+Distortion Corr Params          : 88 0 -136 -288 -480 -696 -944 -1200 -1480 -1752 -2040 0 0 0 0 0
+Vignetting Corr Params          : 0 64 256 704 1344 2240 3584 5632 8256 11456 15232 0 0 0 0 0
+Chromatic Aberration Corr Params: -888 -680 -496 -312 -160 -24 120 360 680 1072 1552 0 0 0 0 0 3480 2832 2304 1912 1640 1584 1488 1040 520 64 -192 0 0 0 0 0
+Battery Temperature             : 36.7 C
+Battery Level                   : 94%
+Lens Mount 2                    : E-mount
+Lens Type 3                     : Sony E PZ 16-50mm F3.5-5.6 OSS
+Camera E-mount Version          : 1.50
+Lens E-mount Version            : 1.20
+Lens Firmware Version           : Ver.01.129
+Release Mode 3                  : Normal
+Self Timer                      : Off
+Flash Mode                      : Fill-flash
+HDR Setting                     : Off
+Picture Profile                 : Gamma Still - Standard/Neutral (PP2)
+WB RGB Levels                   : 746 256 492
+Min Focal Length                : 16.0 mm
+Max Focal Length                : 50.0 mm
+Distortion Corr Params Number   : 11 (APS-C)
+Shutter                         : Mechanical (3136 5383 6069)
+Flash Status                    : Built-in Flash present
+Shutter Count                   : 1515
+Sony Exposure Time              : 1/46
+Sony F Number                   : 3.7
+Shutter Count 2                 : 1515
+Sony Date Time 2                : 2020:11:01 01:07:42
+Release Mode 2                  : Normal
+Internal Serial Number          : 3d00270c
+Lens Mount                      : E-mount
+Lens Format                     : APS-C
+Lens Type 2                     : Sony E PZ 16-50mm F3.5-5.6 OSS
+Distortion Corr Params Present  : Yes
+Lens Spec Features              : E PZ OSS
+User Comment                    : 
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 6000
+Exif Image Height               : 4000
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 24 mm
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Lens Info                       : 16-50mm f/3.5-5.6
+Lens Model                      : E PZ 16-50mm F3.5-5.6 OSS
+PrintIM Version                 : 0300
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 38472
+Thumbnail Length                : 8658
+MPF Version                     : 0100
+Number Of Images                : 2
+MP Image Flags                  : Dependent child image
+MP Image Format                 : JPEG
+MP Image Type                   : Large Thumbnail (full HD equivalent)
+MP Image Length                 : 349453
+MP Image Start                  : 4721152
+Dependent Image 1 Entry Number  : 0
+Dependent Image 2 Entry Number  : 0
+Image Width                     : 6000
+Image Height                    : 4000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Aperture                        : 3.5
+Blue Balance                    : 1.921875
+Image Size                      : 6000x4000
+Lens ID                         : Sony E PZ 16-50mm F3.5-5.6 OSS
+Megapixels                      : 24.0
+Red Balance                     : 2.914063
+Scale Factor To 35 mm Equivalent: 1.5
+Shutter Speed                   : 1/50
+Thumbnail Image                 : (Binary data 8658 bytes, use -b option to extract)
+Preview Image                   : (Binary data 349453 bytes, use -b option to extract)
+Focus Distance 2                : 0.44 m
+Circle Of Confusion             : 0.020 mm
+Field Of View                   : 73.7 deg
+Focal Length                    : 16.0 mm (35 mm equivalent: 24.0 mm)
+Hyperfocal Distance             : 3.65 m
+Light Value                     : 4.3
